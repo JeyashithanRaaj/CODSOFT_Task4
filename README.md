@@ -15,7 +15,6 @@ A simple Python application built with tkinter to display weather information fo
     - [Installation](#installation)
   - [Usage](#usage)
   - [Contributing](#contributing)
-  - [License](#license)
   - [Acknowledgments](#acknowledgments)
 
 ## Description
