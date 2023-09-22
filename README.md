@@ -54,8 +54,8 @@ cd weather-forecast-app
 
 3. Run the application.
 
+python Weather.py
 
-python weather_app.py
 
 ## Usage
 
