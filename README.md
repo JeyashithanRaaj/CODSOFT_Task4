@@ -38,23 +38,29 @@ Before you begin, ensure you have the following:
 - Python installed on your system.
 - Required Python libraries (requests) installed. You can install it using pip:
 
+```bash
 pip install requests
-
+```
 
 ### Installation
 
 1. Clone or download the repository to your local machine.
 
+```bash
 git clone https://github.com/JeyashithanRaaj/CODSOFT_Task4.git
+```
 
 2. Navigate to the project directory.
 
-cd weather-forecast-app
+```bash
+cd Weather
+```
 
 3. Run the application.
 
+```bash
 python Weather.py
-
+```
 
 ## Usage
 
@@ -73,7 +79,8 @@ If you'd like to contribute to this project, please follow these guidelines:
 - Push your changes to your fork.
 - Create a pull request to the original repository.
 
-
 ## Acknowledgments
 
 - This project was created using the tkinter library for the GUI and the OpenWeatherMap API for weather data.
+
+Feel free to customize this README to include any additional information or details about your project. It will help others understand and use your Weather Forecast Application more effectively.
